@@ -9,7 +9,7 @@ Stav Ben Shahar
 <h2>
 About me
 </h2>
-My name is Stav Ben Shahar
+#TODO
 </div>
 <div >
 <h2>
@@ -31,7 +31,7 @@ Highlighted Projects
 <ul>
 <li>
 	<a href="https://www.github.com/danielnachumdev/quickpub](https://github.com/stavBenShahar/Bot-or-Not" >
-bot or Not</a>
+Bot or Not</a>
 
 
 </li>
