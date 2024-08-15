@@ -8,7 +8,7 @@
 <h2>
 About me
 </h2>
-#TODO
+🎓 I recently completed my Bachelor's degree in Computer Science from the Hebrew University of Jerusalem, with strong proficiency in data structures, algorithms, deep learning, and natural language processing (NLP).
 </div>
 <div >
 <h2>
