@@ -1,10 +1,12 @@
 <!-- markdownlint-disable MD033 MD041-->
 
-<div >
 <h1>
-Stav Ben Shahar
+  Hey There!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div >
+<p align="center">
+  <b>Welcome to my GitHub :smile:</b>
+</p>
 
 <h2>
 About me
