@@ -32,7 +32,7 @@ Highlighted Projects
 </h2>
 <ul>
 <li>
-	<a href="https://www.github.com/danielnachumdev/quickpub](https://github.com/stavBenShahar/Bot-or-Not" >
+	<a href="https://github.com/stavBenShahar/Bot-or-Not" >
 Bot or Not</a>
 
 
